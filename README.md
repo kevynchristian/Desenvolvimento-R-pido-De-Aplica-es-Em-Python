@@ -26,7 +26,7 @@ Este projeto realiza a análise da relação entre a faixa etária dos alunos e 
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/kevynchristian/Desenvolvimento-R-pido-De-Aplica-es-Em-Python.git
 
 2. Navegue até o diretório do projeto:
    ```bash
